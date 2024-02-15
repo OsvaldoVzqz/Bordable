@@ -75,10 +75,10 @@ const useStyle = makeStyles(theme=>({
     }
     ,
     btnConfirm:{
-        background: "#5aac44",
+        background: "#6D28D9",
         color: "#ffff",
         "&:hover":{
-            background: alpha("#5aac44", 0.75)
+            background: alpha("#6D28D9", 0.75)
         }
     }
 
